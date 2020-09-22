@@ -1,0 +1,19 @@
+.grid_tbale th {
+    background-color: #2175AC;
+    color: #FFF;
+    border: 1px solid #23638c;
+    padding: 7px;
+    width: 204px;
+    font-family: verdana;
+}
+
+.grid_tbale {
+    margin-top: 5px;
+}
+
+.grid_tbale td {
+    margin: 0px;
+    padding: 8px;
+    font-family: verdana;
+    border: 1px solid rgb(222, 222, 222);
+}
